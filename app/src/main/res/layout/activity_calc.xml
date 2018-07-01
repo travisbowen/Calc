@@ -32,9 +32,9 @@
         android:visibility="visible" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/resultsTextView"
         android:layout_width="411dp"
-        android:layout_height="112dp"
+        android:layout_height="116dp"
         android:paddingRight="10dp"
         android:text="645765"
         android:textAlignment="textEnd"
@@ -190,7 +190,7 @@
         tools:layout_editor_absoluteY="213dp" />
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/equalButton"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:background="@null"
